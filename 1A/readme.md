@@ -1,5 +1,3 @@
-# README.md
-
 ## Overview
 
 This project extracts a clean, hierarchical outline from PDF documents, including the **Title**, and headings at levels **H1**, **H2**, and **H3**, along with their corresponding page numbers. The output is a JSON file containing the structured outline for each processed PDF.
