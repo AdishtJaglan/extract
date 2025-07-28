@@ -10,7 +10,15 @@ try {
   // If 'canvas' isn't installed, rendering warnings may appear but core extraction still works
 }
 
-// Load the legacy Node build of pdf.js and configure its worker
+// Polyfill missing DOMException for pdfjs-dist
+if (typeof global.DOMException === "undefined") {
+  global.DOMException = class DOMException extends Error {
+    constructor(message, name = "DOMException") {
+      super(message);
+      this.name = name;
+    }
+  };
+}
 const pdfjsLib = require("pdfjs-dist/legacy/build/pdf.js");
 pdfjsLib.GlobalWorkerOptions.workerSrc = require.resolve(
   "pdfjs-dist/legacy/build/pdf.worker.js"
