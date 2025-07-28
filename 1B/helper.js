@@ -4,7 +4,7 @@ import pdfjsLib from "pdfjs-dist";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = "pdfjs-dist/build/pdf.worker.js";
 
-// --- Internal Helper Functions (from your original code) ---
+// --- Internal Helper Functions (from 1A) ---
 
 async function extractOutline(pdfDoc) {
   const outline = await pdfDoc.getOutline();
@@ -82,7 +82,7 @@ async function extractByFontMetrics(pdfDoc) {
 }
 
 // --- EXPORTED FUNCTION FOR 1B ---
-// This is the new main function that run_challenge1b.js will call.
+// This is the new main function that extract.js will call.
 export async function processFileAndGetRuns(inPath) {
   const fileName = path.basename(inPath);
   const pdfDoc = await pdfjsLib.getDocument(inPath).promise;
