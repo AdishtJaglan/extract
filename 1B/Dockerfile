@@ -1,17 +1,13 @@
-# Dockerfile
-FROM node:18-alpine
+FROM node:18-slim
 
 WORKDIR /app
 
-# Copy dependency manifests and install
+# Copy deps and install
 COPY package*.json ./
 RUN npm install --production
 
-# Copy all source
+# Copy source
 COPY . .
-
-# Disable networking inside container
-# (will also be passed via `docker run --network none`)
 
 # Default command
 CMD ["node", "extract.js"]

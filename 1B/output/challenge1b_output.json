@@ -11,7 +11,7 @@
     ],
     "persona": "Travel Planner",
     "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
-    "processing_timestamp": "2025-07-28T17:58:09.651Z"
+    "processing_timestamp": "2025-07-28T18:02:36.059Z"
   },
   "extracted_sections": [
     {
@@ -76,27 +76,27 @@
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Additional Tips: Pack a few statement pieces that can be dressed up or down, suc",
-      "importance_rank": 11,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Comfortable Shoes: Wear comfortable walking shoes for exploring cities.",
-      "importance_rank": 12,
+      "importance_rank": 11,
       "page_number": 7
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Family-Friendly Hotels",
-      "importance_rank": 13,
+      "importance_rank": 12,
       "page_number": 9
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "University Influence: Highlight the vibrant student life and the influence of th",
-      "importance_rank": 14,
+      "importance_rank": 13,
       "page_number": 10
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Club Med Opio en Provence (Opio): A family-friendly resort offering a wide range",
+      "importance_rank": 14,
+      "page_number": 9
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -105,10 +105,10 @@
       "page_number": 4
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Club Med Opio en Provence (Opio): A family-friendly resort offering a wide range",
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips: Pack a few statement pieces that can be dressed up or down, suc",
       "importance_rank": 16,
-      "page_number": 9
+      "page_number": 4
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -183,68 +183,68 @@
       "page_number": 10
     },
     {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Language : While French is the official language, English is widely spoken in to",
+      "importance_rank": 29,
+      "page_number": 2
+    },
+    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Montpellier: Discover the Planet Ocean World, an aquarium and planetarium with i",
-      "importance_rank": 29,
+      "importance_rank": 30,
       "page_number": 10
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Gorges du Tarn: Go on a family-friendly hike and enjoy the scenic views.",
-      "importance_rank": 30,
+      "importance_rank": 31,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Cannes : Indulge in a pampering session at one of the many high-end spas. Yoga a",
-      "importance_rank": 31,
+      "importance_rank": 32,
       "page_number": 7
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hôtel de Paris (Monaco): A luxurious family-friendly hotel offering spacious roo",
-      "importance_rank": 32,
+      "importance_rank": 33,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Bordeaux : Take a day trip to the world-renowned wine region and visit its prest",
-      "importance_rank": 33,
+      "importance_rank": 34,
       "page_number": 5
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of Mo",
-      "importance_rank": 34,
+      "importance_rank": 35,
       "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a",
-      "importance_rank": 35,
+      "importance_rank": 36,
       "page_number": 7
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Language : While French is the official language, English is widely spoken in to",
-      "importance_rank": 36,
-      "page_number": 2
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of ",
+      "importance_rank": 37,
+      "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Sarlat : Join a foie gras workshop and learn to prepare this delicacy.",
-      "importance_rank": 37,
+      "importance_rank": 38,
       "page_number": 5
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Make a Packing List: Create a list to ensure nothing is forgotten. Cross off ite",
-      "importance_rank": 38,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of ",
       "importance_rank": 39,
       "page_number": 8
     },
@@ -393,16 +393,16 @@
       "page_number": 7
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Additional Tips: Bring a favorite stuffed animal or comfort item to help kids fe",
-      "importance_rank": 64,
-      "page_number": 7
-    },
-    {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxur",
-      "importance_rank": 65,
+      "importance_rank": 64,
       "page_number": 12
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips: Bring a favorite stuffed animal or comfort item to help kids fe",
+      "importance_rank": 65,
+      "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -430,15 +430,15 @@
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hotel de la Plage (Marseille): A budget-friendly hotel offering simple, clean ro",
+      "section_title": "Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croise",
       "importance_rank": 70,
-      "page_number": 8
+      "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croise",
+      "section_title": "Hotel de la Plage (Marseille): A budget-friendly hotel offering simple, clean ro",
       "importance_rank": 71,
-      "page_number": 11
+      "page_number": 8
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
@@ -621,116 +621,116 @@
       "page_number": 6
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Toulouse: Visit Cité de l'Espace for a space-themed science museum with interact",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hôtel Martinez (Cannes): A luxurious family-friendly hotel offering spacious roo",
       "importance_rank": 102,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Montpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar.",
+      "section_title": "Toulouse: Visit Cité de l'Espace for a space-themed science museum with interact",
       "importance_rank": 103,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Montpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar.",
+      "importance_rank": 104,
       "page_number": 11
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Portable Laundry Kit: A small laundry kit with detergent and a travel clotheslin",
-      "importance_rank": 104,
+      "importance_rank": 105,
       "page_number": 2
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "University of Montpellier: Founded in 1289, it is one of the oldest universities",
-      "importance_rank": 105,
+      "importance_rank": 106,
       "page_number": 10
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of M",
-      "importance_rank": 106,
+      "importance_rank": 107,
       "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Swimwear: Swimsuits and cover-ups for beach or pool days.",
-      "importance_rank": 107,
+      "importance_rank": 108,
       "page_number": 6
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Beach Bag: A large, waterproof bag for essentials.",
-      "importance_rank": 108,
-      "page_number": 7
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Dordogne: Explore the region's caves and prehistoric sites with guided tours sui",
       "importance_rank": 109,
-      "page_number": 9
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel Martinez (Cannes): A luxurious family-friendly hotel offering spacious roo",
-      "importance_rank": 110,
-      "page_number": 9
+      "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Ve",
-      "importance_rank": 111,
+      "importance_rank": 110,
       "page_number": 9
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Relaxation and Wellness For those seeking relaxation and rejuvenation, the South",
-      "importance_rank": 112,
-      "page_number": 7
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Additional Tips: Pack extra clothing for kids, as they may need more changes of ",
-      "importance_rank": 113,
+      "importance_rank": 111,
       "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Dordogne: Explore the region's caves and prehistoric sites with guided tours sui",
+      "importance_rank": 112,
+      "page_number": 9
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croise",
-      "importance_rank": 114,
+      "importance_rank": 113,
       "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croise",
-      "importance_rank": 115,
+      "importance_rank": 114,
       "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Café de la Plage (Arcachon): This beachfront café offers a variety of seafood",
-      "importance_rank": 116,
+      "importance_rank": 115,
       "page_number": 3
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hotel de la Paix (Marseille): A budget-friendly hotel offering simple, clean roo",
-      "importance_rank": 117,
+      "importance_rank": 116,
       "page_number": 8
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Church of St. Trophime: This Romanesque church, built in the 12th century, is kn",
-      "importance_rank": 118,
+      "importance_rank": 117,
       "page_number": 12
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Church of St. Trophime: This Romanesque church, built in the 12th century, is kn",
-      "importance_rank": 119,
+      "importance_rank": 118,
       "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Accessories: Sunglasses, a hat, and a small umbrella.",
+      "importance_rank": 119,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories: Sunglasses, a scarf, and a small umbrella.",
       "importance_rank": 120,
       "page_number": 3
     },
@@ -759,16 +759,16 @@
       "page_number": 2
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Coastal Adventures The South of France is renowned for its beautiful coastline a",
-      "importance_rank": 125,
-      "page_number": 2
-    },
-    {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant offering a",
-      "importance_rank": 126,
+      "importance_rank": 125,
       "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Coastal Adventures The South of France is renowned for its beautiful coastline a",
+      "importance_rank": 126,
+      "page_number": 2
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -784,9 +784,9 @@
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Mont Ventoux : Challenge yourself with a hike or bike ride up this iconic mounta",
+      "section_title": "Relaxation and Wellness For those seeking relaxation and rejuvenation, the South",
       "importance_rank": 129,
-      "page_number": 4
+      "page_number": 7
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -813,58 +813,58 @@
       "page_number": 12
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Accessories: Sunglasses, a scarf, and a small umbrella.",
-      "importance_rank": 134,
-      "page_number": 3
-    },
-    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Cannes : Enjoy the sandy beaches and luxury beach clubs along the Boulevard de l",
-      "importance_rank": 135,
+      "importance_rank": 134,
       "page_number": 2
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Saint-Tropez : Find tranquility at a yoga retreat overlooking the Mediterranean.",
-      "importance_rank": 136,
+      "importance_rank": 135,
       "page_number": 7
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Packing for Kids Clothing",
-      "importance_rank": 137,
+      "importance_rank": 136,
       "page_number": 6
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Club 55 (Saint-Tropez): This iconic beach club offers a relaxed, family-friendly",
-      "importance_rank": 138,
+      "importance_rank": 137,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Monaco: Explore the Musée Océanographique and its marine exhibits, including a s",
-      "importance_rank": 139,
+      "importance_rank": 138,
       "page_number": 10
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Restaurants Budget-Friendly Restaurants",
-      "importance_rank": 140,
+      "importance_rank": 139,
       "page_number": 2
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, of",
-      "importance_rank": 141,
+      "importance_rank": 140,
       "page_number": 12
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, offer",
-      "importance_rank": 142,
+      "importance_rank": 141,
       "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Mont Ventoux : Challenge yourself with a hike or bike ride up this iconic mounta",
+      "importance_rank": 142,
+      "page_number": 4
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
@@ -909,52 +909,52 @@
       "page_number": 9
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Perpignan: A Blend of French and Catalan Cultures History Perpignan, located nea",
-      "importance_rank": 150,
-      "page_number": 11
-    },
-    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Check the Weather: Check the forecast before packing to ensure appropriate cloth",
+      "importance_rank": 150,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture History Aix-en-Provence, founded by t",
       "importance_rank": 151,
       "page_number": 8
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Petit Jardin (Montpellier): A family-friendly restaurant offering a variety o",
-      "importance_rank": 152,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Aix-en-Provence: A City of Art and Culture History Aix-en-Provence, founded by t",
-      "importance_rank": 153,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard ",
-      "importance_rank": 154,
+      "importance_rank": 152,
       "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Café des Arts (Nice): A family-friendly café offering a variety of dishes and",
-      "importance_rank": 155,
+      "importance_rank": 153,
       "page_number": 3
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Family-Friendly Restaurants",
-      "importance_rank": 156,
+      "importance_rank": 154,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Dordogne River : Enjoy a leisurely canoe trip, passing by medieval castles and c",
-      "importance_rank": 157,
+      "importance_rank": 155,
       "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant offeri",
+      "importance_rank": 156,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant offeri",
+      "importance_rank": 157,
+      "page_number": 6
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -963,148 +963,148 @@
       "page_number": 3
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant offeri",
-      "importance_rank": 159,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant offeri",
-      "importance_rank": 160,
-      "page_number": 6
-    },
-    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "La Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals.",
-      "importance_rank": 161,
+      "importance_rank": 159,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Nice : Experience the vibrant Nice Carnival in February.",
-      "importance_rank": 162,
+      "importance_rank": 160,
       "page_number": 6
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Accessories: A sun hat, sunglasses, and a lightweight jacket.",
-      "importance_rank": 163,
+      "importance_rank": 161,
       "page_number": 6
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Luberon : Participate in a holistic retreat with yoga, meditation, and organic m",
-      "importance_rank": 164,
+      "importance_rank": 162,
       "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Saint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront",
-      "importance_rank": 165,
+      "importance_rank": 163,
       "page_number": 11
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Place de l'Horloge : The main square in Avignon, this lively area is surrounded ",
-      "importance_rank": 166,
+      "importance_rank": 164,
       "page_number": 7
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Pré Catelan (Paris): A three-Michelin-starred restaurant offering a variety o",
-      "importance_rank": 167,
+      "importance_rank": 165,
       "page_number": 7
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Stroller: A lightweight, foldable stroller for younger children.",
-      "importance_rank": 168,
+      "importance_rank": 166,
       "page_number": 6
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Accessories: Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bot",
-      "importance_rank": 169,
+      "importance_rank": 167,
       "page_number": 3
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Notebook: Bring a notebook to jot down notes about the wines you taste.",
-      "importance_rank": 170,
+      "importance_rank": 168,
       "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "General Packing Tips and Tricks",
-      "importance_rank": 171,
+      "importance_rank": 169,
       "page_number": 2
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Montpellier: Dance the night away at L'Antirouille, a club known for its eclecti",
-      "importance_rank": 172,
+      "importance_rank": 170,
       "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant offering tr",
-      "importance_rank": 173,
+      "importance_rank": 171,
       "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Petit Jardin (Montpellier): A family-friendly restaurant offering a variety o",
+      "importance_rank": 172,
+      "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Carcassonne : Wander through the medieval citadel with its double walls and 52 t",
-      "importance_rank": 174,
+      "importance_rank": 173,
       "page_number": 3
     },
     {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for ",
-      "importance_rank": 175,
+      "importance_rank": 174,
       "page_number": 4
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Marseille: Visit R2 Rooftop, a popular nightclub with panoramic views of the cit",
+      "importance_rank": 175,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures History Perpignan, located nea",
       "importance_rank": 176,
       "page_number": 11
     },
     {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Photography: Recommend visiting during the Rencontres d'Arles photography festiv",
+      "importance_rank": 177,
+      "page_number": 12
+    },
+    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Versatile Clothing: Choose items that can be mixed and matched to create multipl",
-      "importance_rank": 177,
+      "importance_rank": 178,
       "page_number": 2
     },
     {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Wine Tours: The South of France is renowned for its wine regions, including Prov",
-      "importance_rank": 178,
+      "importance_rank": 179,
       "page_number": 6
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Jardin des Sens (Montpellier): A Michelin-starred restaurant offering a varie",
-      "importance_rank": 179,
-      "page_number": 6
-    },
-    {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Accessories: A stylish yet functional bag, a lightweight scarf, and a versatile ",
       "importance_rank": 180,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Photography: Recommend visiting during the Rencontres d'Arles photography festiv",
-      "importance_rank": 181,
-      "page_number": 12
+      "page_number": 6
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Avignon : Discover local products at Marché des Halles.",
-      "importance_rank": 182,
+      "importance_rank": 181,
       "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Accessories: A stylish yet functional bag, a lightweight scarf, and a versatile ",
+      "importance_rank": 182,
+      "page_number": 4
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
@@ -1113,134 +1113,134 @@
       "page_number": 12
     },
     {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred r",
+      "importance_rank": 184,
+      "page_number": 4
+    },
+    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Additional Tips: Pack extra toiletries for kids, as they may need more frequent ",
-      "importance_rank": 184,
+      "importance_rank": 185,
       "page_number": 6
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Promenade des Anglais : This famous seaside promenade was built in the 19th cent",
-      "importance_rank": 185,
+      "importance_rank": 186,
       "page_number": 3
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or ",
-      "importance_rank": 186,
+      "importance_rank": 187,
       "page_number": 11
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, off",
-      "importance_rank": 187,
+      "importance_rank": 188,
       "page_number": 8
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Cannes: Enjoy the stylish setting and rooftop terrace at La Suite, offering stun",
-      "importance_rank": 188,
-      "page_number": 11
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Cannes : Visit Marché Forville for fresh seafood and local produce.",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel offering comf",
       "importance_rank": 189,
       "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Cannes : Attend the prestigious Cannes Film Festival in May.",
+      "section_title": "Cannes: Enjoy the stylish setting and rooftop terrace at La Suite, offering stun",
       "importance_rank": 190,
-      "page_number": 6
+      "page_number": 11
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel offering comf",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cannes : Visit Marché Forville for fresh seafood and local produce.",
       "importance_rank": 191,
       "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Lake Annecy: Rent bikes and ride along the lake's picturesque bike paths.",
+      "section_title": "Cannes : Attend the prestigious Cannes Film Festival in May.",
       "importance_rank": 192,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotel Le Mistral (Marseille): A budget-friendly hotel offering simple, clean roo",
+      "importance_rank": 193,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Lake Annecy: Rent bikes and ride along the lake's picturesque bike paths.",
+      "importance_rank": 194,
       "page_number": 9
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, ",
-      "importance_rank": 193,
+      "importance_rank": 195,
       "page_number": 2
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Aix-en-Provence: A City of Art and Culture Aix-en-Provence, founded by the Roman",
-      "importance_rank": 194,
+      "importance_rank": 196,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Ultimate Guide to Activities and Things to Do in the South of France Introductio",
-      "importance_rank": 195,
+      "importance_rank": 197,
       "page_number": 1
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Reenactments: Provide insights into medieval life in Carcassonne, including reen",
-      "importance_rank": 196,
+      "importance_rank": 198,
       "page_number": 13
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "La Réserve Ramatuelle (Ramatuelle): A luxurious hotel offering elegant rooms, a ",
-      "importance_rank": 197,
+      "importance_rank": 199,
       "page_number": 12
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred r",
-      "importance_rank": 198,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Pyrenees National Park : Enjoy challenging hikes and stunning mountain scenery.",
-      "importance_rank": 199,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Clos des Sens (Annecy): A three-Michelin-starred restaurant offering a variet",
       "importance_rank": 200,
-      "page_number": 7
+      "page_number": 4
     },
     {
-      "document": "South of France - Cuisine.pdf",
-      "section_title": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred r",
+      "document": "South of France - History.pdf",
+      "section_title": "Place de l'Horloge : The main square in Avignon, this lively area is surrounded ",
       "importance_rank": 201,
       "page_number": 4
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Marseille : Participate in a seafood cooking class to make dishes like bouillaba",
+      "section_title": "Pyrenees National Park : Enjoy challenging hikes and stunning mountain scenery.",
       "importance_rank": 202,
-      "page_number": 5
+      "page_number": 4
     },
     {
-      "document": "South of France - History.pdf",
-      "section_title": "Place de l'Horloge : The main square in Avignon, this lively area is surrounded ",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Clos des Sens (Annecy): A three-Michelin-starred restaurant offering a variet",
       "importance_rank": 203,
-      "page_number": 4
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille : Participate in a seafood cooking class to make dishes like bouillaba",
+      "importance_rank": 204,
+      "page_number": 5
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Villeneuve-Loubet: Enjoy quirky attractions at Le Village des Fous.",
-      "importance_rank": 204,
-      "page_number": 9
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel o",
       "importance_rank": 205,
       "page_number": 9
     },
@@ -1251,28 +1251,28 @@
       "page_number": 7
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Promenade du Peyrou: This 17th-century promenade offers stunning views of the ci",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel o",
       "importance_rank": 207,
-      "page_number": 10
+      "page_number": 9
     },
     {
-      "document": "South of France - History.pdf",
+      "document": "South of France - Cities.pdf",
       "section_title": "Promenade du Peyrou: This 17th-century promenade offers stunning views of the ci",
       "importance_rank": 208,
       "page_number": 10
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Copies of Important Documents: Make copies of your passport, travel insurance, a",
+      "document": "South of France - History.pdf",
+      "section_title": "Promenade du Peyrou: This 17th-century promenade offers stunning views of the ci",
       "importance_rank": 209,
-      "page_number": 2
+      "page_number": 10
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel offering ",
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Copies of Important Documents: Make copies of your passport, travel insurance, a",
       "importance_rank": 210,
-      "page_number": 9
+      "page_number": 2
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -1282,9 +1282,9 @@
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hotel Le Mistral (Marseille): A budget-friendly hotel offering simple, clean roo",
+      "section_title": "Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel offering ",
       "importance_rank": 212,
-      "page_number": 8
+      "page_number": 9
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
@@ -1323,16 +1323,16 @@
       "page_number": 5
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de l",
-      "importance_rank": 219,
-      "page_number": 11
-    },
-    {
       "document": "South of France - Cities.pdf",
       "section_title": "Parc Phoenix : Discover the botanical wonders at Parc Phoenix, a beautiful garde",
-      "importance_rank": 220,
+      "importance_rank": 219,
       "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de l",
+      "importance_rank": 220,
+      "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -1402,15 +1402,15 @@
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Biarritz : Enjoy the luxurious spas and wellness centers in this coastal town.",
+      "section_title": "Monaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in th",
       "importance_rank": 232,
-      "page_number": 7
+      "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Monaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in th",
+      "section_title": "Biarritz : Enjoy the luxurious spas and wellness centers in this coastal town.",
       "importance_rank": 233,
-      "page_number": 11
+      "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -1419,22 +1419,22 @@
       "page_number": 2
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Saint-Paul-de-Vence : Discover modern art at the Fondation Maeght.",
-      "importance_rank": 235,
-      "page_number": 3
-    },
-    {
       "document": "South of France - Cities.pdf",
       "section_title": "Arts Scene : Explore the city's vibrant arts scene, with numerous galleries and ",
-      "importance_rank": 236,
+      "importance_rank": 235,
       "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Sarlat : Explore the bustling market in the heart of the medieval town. Boutique",
-      "importance_rank": 237,
+      "importance_rank": 236,
       "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Saint-Paul-de-Vence : Discover modern art at the Fondation Maeght.",
+      "importance_rank": 237,
+      "page_number": 3
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -1552,37 +1552,37 @@
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "La Villa Madie (Cassis): A two-Michelin-starred restaurant offering a variety of",
-      "importance_rank": 257,
-      "page_number": 7
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Petit Nice (Marseille): A budget-friendly option offering a variety of seafoo",
-      "importance_rank": 258,
+      "importance_rank": 257,
       "page_number": 2
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Footwear: Comfortable walking shoes and sandals.",
-      "importance_rank": 259,
+      "importance_rank": 258,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Evian-les-Bains : Relax at the Evian Resort, known for its mineral-rich waters.",
-      "importance_rank": 260,
+      "importance_rank": 259,
       "page_number": 7
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Layering: The weather can vary, so pack layers to stay comfortable in different ",
-      "importance_rank": 261,
+      "importance_rank": 260,
       "page_number": 2
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Saint-Raphaël : Visit the Thalasso Spa for seawater treatments and relaxation.",
+      "importance_rank": 261,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "La Villa Madie (Cassis): A two-Michelin-starred restaurant offering a variety of",
       "importance_rank": 262,
       "page_number": 7
     },
@@ -4317,10 +4317,10 @@
       "page_number": 8
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel offering luxurious rooms, a p",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Antibes : Explore the Musée Picasso, housed in the Château Grimaldi.",
       "importance_rank": 718,
-      "page_number": 12
+      "page_number": 3
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -4329,46 +4329,46 @@
       "page_number": 3
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Antibes : Explore the Musée Picasso, housed in the Château Grimaldi.",
-      "importance_rank": 720,
-      "page_number": 3
-    },
-    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Water Bottle: A reusable water bottle.",
-      "importance_rank": 721,
+      "importance_rank": 720,
       "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Arles : Visit the Roman amphitheater and ancient theater.",
-      "importance_rank": 722,
+      "importance_rank": 721,
       "page_number": 3
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant offering",
-      "importance_rank": 723,
+      "importance_rank": 722,
       "page_number": 4
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant offering",
-      "importance_rank": 724,
+      "importance_rank": 723,
       "page_number": 6
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Best Time to Visit : The best time to visit the South of France is during the sp",
-      "importance_rank": 725,
-      "page_number": 2
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel offering luxurious rooms, a p",
+      "importance_rank": 724,
+      "page_number": 12
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Nice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old t",
-      "importance_rank": 726,
+      "importance_rank": 725,
       "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Best Time to Visit : The best time to visit the South of France is during the sp",
+      "importance_rank": 726,
+      "page_number": 2
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -4395,40 +4395,40 @@
       "page_number": 3
     },
     {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips: Spring can be unpredictable, so be prepared for both sunny and ",
+      "importance_rank": 731,
+      "page_number": 3
+    },
+    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Gorges du Verdon : Rent a kayak or paddleboat to explore the turquoise waters.",
-      "importance_rank": 731,
+      "importance_rank": 732,
       "page_number": 4
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "MuCEM (Museum of European and Mediterranean Civilizations) : This modern museum ",
-      "importance_rank": 732,
+      "importance_rank": 733,
       "page_number": 3
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Festival d'Aix-en-Provence: An annual opera festival held in July, it is one of ",
-      "importance_rank": 733,
+      "importance_rank": 734,
       "page_number": 9
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Additional Tips: Autumn is a great time to visit vineyards and enjoy the harvest",
-      "importance_rank": 734,
+      "importance_rank": 735,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Cannes: Experience dining and entertainment at La Folie Douce, with live music, ",
-      "importance_rank": 735,
-      "page_number": 11
-    },
-    {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Additional Tips: Spring can be unpredictable, so be prepared for both sunny and ",
       "importance_rank": 736,
-      "page_number": 3
+      "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -4503,28 +4503,28 @@
       "page_number": 10
     },
     {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes The South of France is home to many iconic dishes that you must tr",
+      "importance_rank": 749,
+      "page_number": 3
+    },
+    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Clothing: Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, ",
-      "importance_rank": 749,
+      "importance_rank": 750,
       "page_number": 3
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "Le Bistrot Gourmand (Cannes): This bistro offers a variety of traditional French",
-      "importance_rank": 750,
+      "importance_rank": 751,
       "page_number": 2
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Roll Your Clothes: Save space and reduce wrinkles.",
-      "importance_rank": 751,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - Cuisine.pdf",
-      "section_title": "Famous Dishes The South of France is home to many iconic dishes that you must tr",
       "importance_rank": 752,
-      "page_number": 3
+      "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -4594,15 +4594,15 @@
     },
     {
       "document": "South of France - Cities.pdf",
-      "section_title": "Nice: The Jewel of the French Riviera History Nice, located on the French Rivier",
+      "section_title": "Conclusion The South of France is home to a diverse array of cities, each with i",
       "importance_rank": 764,
-      "page_number": 5
+      "page_number": 14
     },
     {
       "document": "South of France - Cities.pdf",
-      "section_title": "Conclusion The South of France is home to a diverse array of cities, each with i",
+      "section_title": "Nice: The Jewel of the French Riviera History Nice, located on the French Rivier",
       "importance_rank": 765,
-      "page_number": 14
+      "page_number": 5
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -4666,51 +4666,51 @@
     },
     {
       "document": "South of France - Cities.pdf",
-      "section_title": "Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a un",
+      "section_title": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the ",
       "importance_rank": 776,
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a un",
+      "importance_rank": 777,
       "page_number": 5
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Surrounding Area: Suggest exploring the surrounding Languedoc region, known for ",
-      "importance_rank": 777,
+      "importance_rank": 778,
       "page_number": 13
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Toulouse : Learn to cook regional specialties such as cassoulet.",
-      "importance_rank": 778,
+      "importance_rank": 779,
       "page_number": 5
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symb",
-      "importance_rank": 779,
+      "importance_rank": 780,
       "page_number": 11
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symb",
-      "importance_rank": 780,
+      "importance_rank": 781,
       "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Menton : Visit the Lemon Festival in February, featuring elaborate citrus-themed",
-      "importance_rank": 781,
+      "importance_rank": 782,
       "page_number": 6
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Orange : Explore the well-preserved Roman theater and triumphal arch.",
-      "importance_rank": 782,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the ",
       "importance_rank": 783,
-      "page_number": 12
+      "page_number": 3
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -4719,16 +4719,16 @@
       "page_number": 4
     },
     {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Bistrot du Paradou (Paradou): A charming bistro offering a daily fixed menu w",
-      "importance_rank": 785,
-      "page_number": 2
-    },
-    {
       "document": "South of France - Cities.pdf",
       "section_title": "Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, whi",
-      "importance_rank": 786,
+      "importance_rank": 785,
       "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Bistrot du Paradou (Paradou): A charming bistro offering a daily fixed menu w",
+      "importance_rank": 786,
+      "page_number": 2
     },
     {
       "document": "South of France - Cuisine.pdf",
@@ -4761,16 +4761,16 @@
       "page_number": 6
     },
     {
-      "document": "South of France - Traditions and Culture.pdf",
-      "section_title": "Language and Literature Provençal Language The Provençal language, also known as",
-      "importance_rank": 792,
-      "page_number": 2
-    },
-    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Additional Items: A small sewing kit, nail clippers, and a razor.",
-      "importance_rank": 793,
+      "importance_rank": 792,
       "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Language and Literature Provençal Language The Provençal language, also known as",
+      "importance_rank": 793,
+      "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
@@ -4791,34 +4791,34 @@
       "page_number": 2
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Marseille : Go windsurfing or kitesurfing in the windy bays.",
-      "importance_rank": 797,
-      "page_number": 2
-    },
-    {
       "document": "South of France - History.pdf",
       "section_title": "Avignon: The City of Popes Avignon, located on the banks of the Rhône River, is ",
-      "importance_rank": 798,
+      "importance_rank": 797,
       "page_number": 4
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Modern Architecture: Mention modern architectural landmarks like the Antigone di",
-      "importance_rank": 799,
-      "page_number": 10
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Marseille : Go windsurfing or kitesurfing in the windy bays.",
+      "importance_rank": 798,
+      "page_number": 2
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Beach Toys: Buckets, shovels, and toys for kids.",
-      "importance_rank": 800,
+      "importance_rank": 799,
       "page_number": 7
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Cerbère-Banyuls : Visit the marine reserve for an unforgettable diving experienc",
-      "importance_rank": 801,
+      "importance_rank": 800,
       "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Modern Architecture: Mention modern architectural landmarks like the Antigone di",
+      "importance_rank": 801,
+      "page_number": 10
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
@@ -4857,16 +4857,16 @@
       "page_number": 4
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Footwear: Sandals, flip-flops, and comfortable walking shoes.",
-      "importance_rank": 808,
-      "page_number": 3
-    },
-    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Conclusion The South of France is a diverse and enchanting region that offers a ",
-      "importance_rank": 809,
+      "importance_rank": 808,
       "page_number": 13
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Footwear: Sandals, flip-flops, and comfortable walking shoes.",
+      "importance_rank": 809,
+      "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -4924,21 +4924,21 @@
     },
     {
       "document": "South of France - History.pdf",
-      "section_title": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a tes",
+      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters ass",
       "importance_rank": 819,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a tes",
+      "importance_rank": 820,
       "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Nice : Explore the vibrant Cours Saleya Market.",
-      "importance_rank": 820,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - History.pdf",
-      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters ass",
       "importance_rank": 821,
-      "page_number": 9
+      "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -4965,22 +4965,22 @@
       "page_number": 3
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, desi",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters ass",
       "importance_rank": 826,
       "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Camargue : Explore the unique wetlands on horseback or by bike.",
+      "section_title": "Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, desi",
       "importance_rank": 827,
-      "page_number": 4
+      "page_number": 8
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters ass",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Camargue : Explore the unique wetlands on horseback or by bike.",
       "importance_rank": 828,
-      "page_number": 8
+      "page_number": 4
     },
     {
       "document": "South of France - Cities.pdf",
@@ -4989,40 +4989,40 @@
       "page_number": 6
     },
     {
-      "document": "South of France - Traditions and Culture.pdf",
-      "section_title": "Truffles, often referred to as \"black diamonds,\" are a prized delicacy in the So",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant offering",
       "importance_rank": 830,
       "page_number": 4
     },
     {
       "document": "South of France - Cuisine.pdf",
-      "section_title": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant offering",
-      "importance_rank": 831,
-      "page_number": 4
-    },
-    {
-      "document": "South of France - Cuisine.pdf",
       "section_title": "Conclusion The South of France offers a rich and diverse culinary landscape that",
-      "importance_rank": 832,
+      "importance_rank": 831,
       "page_number": 8
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Clothing: Warm layers such as sweaters, long-sleeve shirts, and thermal tops. A ",
-      "importance_rank": 833,
+      "importance_rank": 832,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Fréjus: Cool off at Aqualand water park.",
-      "importance_rank": 834,
+      "importance_rank": 833,
       "page_number": 9
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Thermal Springs: Aix-en-Provence was originally founded as a Roman spa town due ",
-      "importance_rank": 835,
+      "importance_rank": 834,
       "page_number": 9
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Truffles, often referred to as \"black diamonds,\" are a prized delicacy in the So",
+      "importance_rank": 835,
+      "page_number": 4
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -5103,34 +5103,34 @@
       "page_number": 11
     },
     {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Gaillac : Discover the unique wines of this lesser-known region.",
-      "importance_rank": 849,
-      "page_number": 5
-    },
-    {
       "document": "South of France - History.pdf",
       "section_title": "Cryptoporticus: An underground gallery built by the Romans in the 1st century BC",
-      "importance_rank": 850,
+      "importance_rank": 849,
       "page_number": 8
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Toulouse: The Pink City History Toulouse, known as \"La Ville Rose\" (The Pink Cit",
-      "importance_rank": 851,
+      "importance_rank": 850,
       "page_number": 9
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Toulouse: Shop in the vibrant Capitole area, home to a mix of high-end and indep",
-      "importance_rank": 852,
+      "importance_rank": 851,
       "page_number": 8
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Arles : Celebrate the Feria d'Arles, a traditional bullfighting festival held in",
-      "importance_rank": 853,
+      "importance_rank": 852,
       "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Gaillac : Discover the unique wines of this lesser-known region.",
+      "importance_rank": 853,
+      "page_number": 5
     },
     {
       "document": "South of France - Cities.pdf",
@@ -5145,46 +5145,46 @@
       "page_number": 4
     },
     {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "used to create nativity scenes. Santon fairs, such as the one in Marseille, offe",
+      "importance_rank": 856,
+      "page_number": 5
+    },
+    {
       "document": "South of France - History.pdf",
       "section_title": "Musée Fabre: One of the most important art museums in France, the Musée Fabre ho",
-      "importance_rank": 856,
+      "importance_rank": 857,
       "page_number": 10
     },
     {
       "document": "South of France - Restaurants and Hotels.pdf",
       "section_title": "La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. T",
-      "importance_rank": 857,
+      "importance_rank": 858,
       "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and p",
-      "importance_rank": 858,
+      "importance_rank": 859,
       "page_number": 4
     },
     {
-      "document": "South of France - Traditions and Culture.pdf",
-      "section_title": "used to create nativity scenes. Santon fairs, such as the one in Marseille, offe",
-      "importance_rank": 859,
-      "page_number": 5
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjo",
+      "importance_rank": 860,
+      "page_number": 9
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Carcassonne: A Medieval Fortress Carcassonne is a fortified city in the Languedo",
-      "importance_rank": 860,
+      "importance_rank": 861,
       "page_number": 6
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Basic Toiletries: Toothbrush, toothpaste, shampoo, body wash, and personal hygie",
-      "importance_rank": 861,
-      "page_number": 6
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Toulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and",
       "importance_rank": 862,
-      "page_number": 11
+      "page_number": 6
     },
     {
       "document": "South of France - Cuisine.pdf",
@@ -5194,39 +5194,39 @@
     },
     {
       "document": "South of France - Things to Do.pdf",
-      "section_title": "Mercantour National Park : Discover diverse wildlife and beautiful alpine landsc",
+      "section_title": "Toulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and",
       "importance_rank": 864,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Mercantour National Park : Discover diverse wildlife and beautiful alpine landsc",
+      "importance_rank": 865,
       "page_number": 4
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow str",
-      "importance_rank": 865,
+      "importance_rank": 866,
       "page_number": 5
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow str",
-      "importance_rank": 866,
+      "importance_rank": 867,
       "page_number": 3
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Loge de Mer: This historic building, originally a maritime trading exchange, dat",
-      "importance_rank": 867,
+      "importance_rank": 868,
       "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Culinary Delights The South of France is a food lover's paradise. Here are some ",
-      "importance_rank": 868,
-      "page_number": 5
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjo",
       "importance_rank": 869,
-      "page_number": 9
+      "page_number": 5
     },
     {
       "document": "South of France - Cities.pdf",
@@ -5253,130 +5253,130 @@
       "page_number": 2
     },
     {
-      "document": "South of France - Cuisine.pdf",
-      "section_title": "Truffle Hunting: The South of France is known for its truffles, particularly the",
-      "importance_rank": 874,
-      "page_number": 6
-    },
-    {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Snorkeling Gear: Bring your own gear for a better fit and comfort.",
-      "importance_rank": 875,
-      "page_number": 7
-    },
-    {
       "document": "South of France - Tips and Tricks.pdf",
       "section_title": "Basic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash, deodo",
-      "importance_rank": 876,
+      "importance_rank": 874,
       "page_number": 4
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th cent",
-      "importance_rank": 877,
-      "page_number": 11
-    },
-    {
-      "document": "South of France - History.pdf",
-      "section_title": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th cent",
-      "importance_rank": 878,
-      "page_number": 11
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Truffle Hunting: The South of France is known for its truffles, particularly the",
+      "importance_rank": 875,
+      "page_number": 6
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Loge de Mer: This historic building, originally a maritime trading exchange, dat",
-      "importance_rank": 879,
+      "importance_rank": 876,
       "page_number": 11
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Inquisition Tower : One of the Roman towers in Carcassonne, it was used during t",
-      "importance_rank": 880,
+      "importance_rank": 877,
       "page_number": 6
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Canal du Midi: A UNESCO World Heritage site, this canal connects the Garonne Riv",
-      "importance_rank": 881,
+      "importance_rank": 878,
       "page_number": 7
     },
     {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th cent",
+      "importance_rank": 879,
+      "page_number": 11
+    },
+    {
       "document": "South of France - History.pdf",
-      "section_title": "Toulouse: The Pink City Toulouse, known as \"La Ville Rose\" (The Pink City) due t",
-      "importance_rank": 882,
-      "page_number": 7
+      "section_title": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th cent",
+      "importance_rank": 880,
+      "page_number": 11
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Nice : Visit the Musée Matisse, dedicated to the works of Henri Matisse.",
-      "importance_rank": 883,
+      "importance_rank": 881,
       "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Snorkeling Gear: Bring your own gear for a better fit and comfort.",
+      "importance_rank": 882,
+      "page_number": 7
     },
     {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Languedoc-Roussillon: This vast region stretches along the Mediterranean coast a",
-      "importance_rank": 884,
+      "importance_rank": 883,
       "page_number": 5
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Pont Vieux : This 14th-century bridge connects the medieval Cité with the lower ",
-      "importance_rank": 885,
+      "importance_rank": 884,
       "page_number": 6
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Fort Saint-Jean : Constructed in the 17th century, this fort guards the entrance",
-      "importance_rank": 886,
+      "importance_rank": 885,
       "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
+      "section_title": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
+      "importance_rank": 886,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - History.pdf",
       "section_title": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
       "importance_rank": 887,
       "page_number": 11
     },
     {
-      "document": "South of France - History.pdf",
-      "section_title": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
-      "importance_rank": 888,
-      "page_number": 11
-    },
-    {
       "document": "South of France - Cities.pdf",
       "section_title": "Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill ove",
-      "importance_rank": 889,
+      "importance_rank": 888,
       "page_number": 3
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill ove",
-      "importance_rank": 890,
+      "importance_rank": 889,
       "page_number": 2
     },
     {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Provence: Famous for its rosé wines, Provence is one of the oldest wine-producin",
-      "importance_rank": 891,
+      "importance_rank": 890,
       "page_number": 5
-    },
-    {
-      "document": "South of France - Things to Do.pdf",
-      "section_title": "Toulouse : Discover the Musée des Augustins, a fine arts museum housed in a form",
-      "importance_rank": 892,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "Additional Tips: The South of France can get very hot in the summer, so stay hyd",
-      "importance_rank": 893,
-      "page_number": 3
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Arles: A Roman Treasure History Arles, located on the banks of the Rhône River, ",
-      "importance_rank": 894,
+      "importance_rank": 891,
       "page_number": 12
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips: The South of France can get very hot in the summer, so stay hyd",
+      "importance_rank": 892,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Toulouse : Discover the Musée des Augustins, a fine arts museum housed in a form",
+      "importance_rank": 893,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Toulouse: The Pink City Toulouse, known as \"La Ville Rose\" (The Pink City) due t",
+      "importance_rank": 894,
+      "page_number": 7
     },
     {
       "document": "South of France - Cuisine.pdf",
@@ -5385,16 +5385,16 @@
       "page_number": 3
     },
     {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Carcassonne: A Medieval Fortress History Carcassonne is a fortified city in the ",
-      "importance_rank": 896,
-      "page_number": 13
-    },
-    {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Grasse : Visit the perfume factories and learn about the history of fragrance pr",
-      "importance_rank": 897,
+      "importance_rank": 896,
       "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Carcassonne: A Medieval Fortress History Carcassonne is a fortified city in the ",
+      "importance_rank": 897,
+      "page_number": 13
     },
     {
       "document": "South of France - Cuisine.pdf",
@@ -5512,39 +5512,39 @@
     },
     {
       "document": "South of France - History.pdf",
-      "section_title": "Castle Hill (Colline du Château) : This hilltop park offers stunning views of Ni",
+      "section_title": "Tour Magne : This ancient Roman tower, part of the city's original fortification",
       "importance_rank": 917,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Castle Hill (Colline du Château) : This hilltop park offers stunning views of Ni",
+      "importance_rank": 918,
       "page_number": 3
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling",
-      "importance_rank": 918,
+      "importance_rank": 919,
       "page_number": 3
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling",
-      "importance_rank": 919,
+      "importance_rank": 920,
       "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Fish Market at the Old Port : Visit the fish market at the Old Port to experienc",
-      "importance_rank": 920,
+      "importance_rank": 921,
       "page_number": 3
     },
     {
       "document": "South of France - Things to Do.pdf",
       "section_title": "Shopping and Markets The South of France is a shopper's paradise, with a variety",
-      "importance_rank": 921,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - Restaurants and Hotels.pdf",
-      "section_title": "Le Chantecler (Nice): A Michelin-starred restaurant offering a variety of dishes",
       "importance_rank": 922,
-      "page_number": 6
+      "page_number": 8
     },
     {
       "document": "South of France - History.pdf",
@@ -5553,22 +5553,22 @@
       "page_number": 10
     },
     {
-      "document": "South of France - History.pdf",
-      "section_title": "Tour Magne : This ancient Roman tower, part of the city's original fortification",
-      "importance_rank": 924,
-      "page_number": 5
-    },
-    {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove ",
-      "importance_rank": 925,
+      "importance_rank": 924,
       "page_number": 6
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Pont Neuf: Despite its name, which means \"New Bridge,\" this is the oldest bridge",
-      "importance_rank": 926,
+      "importance_rank": 925,
       "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Le Chantecler (Nice): A Michelin-starred restaurant offering a variety of dishes",
+      "importance_rank": 926,
+      "page_number": 6
     },
     {
       "document": "South of France - Things to Do.pdf",
@@ -5578,31 +5578,31 @@
     },
     {
       "document": "South of France - History.pdf",
-      "section_title": "Van Gogh's Influence: Arles is also famous for its association with Vincent van ",
-      "importance_rank": 928,
-      "page_number": 8
-    },
-    {
-      "document": "South of France - History.pdf",
       "section_title": "Cimiez : An ancient Roman settlement, Cimiez is home to the ruins of a Roman amp",
-      "importance_rank": 929,
+      "importance_rank": 928,
       "page_number": 3
-    },
-    {
-      "document": "South of France - History.pdf",
-      "section_title": "Arles: A Roman Treasure Arles, located on the banks of the Rhône River, is renow",
-      "importance_rank": 930,
-      "page_number": 8
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, w",
-      "importance_rank": 931,
+      "importance_rank": 929,
       "page_number": 12
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, w",
+      "importance_rank": 930,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Van Gogh's Influence: Arles is also famous for its association with Vincent van ",
+      "importance_rank": 931,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Arles: A Roman Treasure Arles, located on the banks of the Rhône River, is renow",
       "importance_rank": 932,
       "page_number": 8
     },
@@ -5613,16 +5613,16 @@
       "page_number": 3
     },
     {
-      "document": "South of France - Traditions and Culture.pdf",
-      "section_title": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a ",
-      "importance_rank": 934,
-      "page_number": 3
-    },
-    {
       "document": "South of France - History.pdf",
       "section_title": "Hoardings : Carcassonne was the first fortress to use wooden hoardings during si",
-      "importance_rank": 935,
+      "importance_rank": 934,
       "page_number": 6
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a ",
+      "importance_rank": 935,
+      "page_number": 3
     },
     {
       "document": "South of France - Cuisine.pdf",
@@ -5668,45 +5668,45 @@
     },
     {
       "document": "South of France - Cuisine.pdf",
-      "section_title": "Seafood: With its extensive coastline, the South of France offers an abundance o",
-      "importance_rank": 943,
-      "page_number": 2
-    },
-    {
-      "document": "South of France - Cuisine.pdf",
       "section_title": "Cheese Tasting: The South of France is home to a variety of delicious cheeses, i",
-      "importance_rank": 944,
+      "importance_rank": 943,
       "page_number": 7
     },
     {
       "document": "South of France - Cities.pdf",
       "section_title": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is sti",
-      "importance_rank": 945,
+      "importance_rank": 944,
       "page_number": 12
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is sti",
-      "importance_rank": 946,
+      "importance_rank": 945,
       "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Seafood: With its extensive coastline, the South of France offers an abundance o",
+      "importance_rank": 946,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cook",
+      "importance_rank": 947,
+      "page_number": 2
     },
     {
       "document": "South of France - History.pdf",
       "section_title": "La Marseillaise : Marseille played a significant role during the French Revoluti",
-      "importance_rank": 947,
+      "importance_rank": 948,
       "page_number": 2
     },
     {
       "document": "South of France - Cuisine.pdf",
       "section_title": "Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomato",
-      "importance_rank": 948,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cuisine.pdf",
-      "section_title": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cook",
       "importance_rank": 949,
-      "page_number": 2
+      "page_number": 3
     },
     {
       "document": "South of France - History.pdf",
