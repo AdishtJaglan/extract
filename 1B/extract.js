@@ -8,10 +8,10 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // In‑container paths (as mounted by the judges)
-const INPUT_DIR = "/input";
+const INPUT_DIR = "./input";
 const PDF_DIR = path.join(INPUT_DIR, "PDF");
 const INPUT_JSON = path.join(INPUT_DIR, "challenge1b_input.json");
-const OUTPUT_DIR = "/output";
+const OUTPUT_DIR = "./output";
 const OUTPUT_JSON = path.join(OUTPUT_DIR, "challenge1b_output.json");
 
 // AI Model initialization
