@@ -3,12 +3,18 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { processFileAndGetRuns } from "./helper.js";
 
-// Helper to get the correct directory path in ES modules
+// Resolve __dirname in ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// --- AI and Helper Functions ---
+// In‑container paths (as mounted by the judges)
+const INPUT_DIR = "/input";
+const PDF_DIR = path.join(INPUT_DIR, "PDF");
+const INPUT_JSON = path.join(INPUT_DIR, "challenge1b_input.json");
+const OUTPUT_DIR = "/output";
+const OUTPUT_JSON = path.join(OUTPUT_DIR, "challenge1b_output.json");
 
+// AI Model initialization
 async function initializeModel() {
   const { pipeline } = await import("@xenova/transformers");
   console.log("Initializing AI Model (will download on first run)...");
@@ -20,63 +26,65 @@ async function initializeModel() {
   return extractor;
 }
 
+// Cosine‑similarity helper
 function cosineSimilarity(vecA, vecB) {
-  let dotProduct = 0;
-  let normA = 0;
-  let normB = 0;
+  let dot = 0,
+    normA = 0,
+    normB = 0;
   for (let i = 0; i < vecA.length; i++) {
-    dotProduct += vecA[i] * vecB[i];
+    dot += vecA[i] * vecB[i];
     normA += vecA[i] * vecA[i];
     normB += vecB[i] * vecB[i];
   }
-  return dotProduct / (Math.sqrt(normA) * Math.sqrt(normB));
+  return dot / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-// --- Main Execution Logic ---
-
+// Main workflow
 async function main() {
+  // 1. Load AI model
   const extractor = await initializeModel();
 
-  const collectionDir = path.resolve(__dirname, "collections");
-  const inputPath = path.join(collectionDir, "challenge1b_input.json");
-  const outputPath = path.join(collectionDir, "challenge1b_output.json");
-  const pdfsDir = path.join(collectionDir, "PDF");
-
-  const inputData = await fs.readJson(inputPath);
+  // 2. Read the input JSON
+  await fs.ensureDir(INPUT_DIR);
+  const inputData = await fs.readJson(INPUT_JSON);
   const { persona, job_to_be_done, documents } = inputData;
   const contextText = `Persona: ${persona.role}. Task: ${job_to_be_done.task}`;
 
+  // 3. Extract text runs from each PDF
   console.log("Processing PDF documents...");
   let allContentRuns = [];
   for (const doc of documents) {
-    const fullPath = path.join(pdfsDir, doc.filename);
+    const pdfPath = path.join(PDF_DIR, doc.filename);
     console.log(`- Extracting from ${doc.filename}`);
-    const runs = await processFileAndGetRuns(fullPath);
+    const runs = await processFileAndGetRuns(pdfPath);
     allContentRuns.push(...runs);
   }
   console.log(`Extracted ${allContentRuns.length} total text chunks.`);
 
+  // 4. Compute embeddings
   console.log("Generating embeddings...");
-  const contextEmbedding = (
+  const ctxEmbed = (
     await extractor(contextText, { pooling: "mean", normalize: true })
   ).data;
 
   const contentEmbeddings = await Promise.all(
     allContentRuns.map((run) =>
       extractor(run.text, { pooling: "mean", normalize: true }).then(
-        (result) => result.data
+        (res) => res.data
       )
     )
   );
 
+  // 5. Score and rank
   console.log("Calculating relevance scores...");
-  const rankedRuns = allContentRuns
+  const ranked = allContentRuns
     .map((run, i) => ({
       ...run,
-      relevance: cosineSimilarity(contextEmbedding, contentEmbeddings[i]),
+      relevance: cosineSimilarity(ctxEmbed, contentEmbeddings[i]),
     }))
     .sort((a, b) => b.relevance - a.relevance);
 
+  // 6. Build output JSON
   console.log("Generating final output...");
   const outputJson = {
     metadata: {
@@ -85,20 +93,25 @@ async function main() {
       job_to_be_done: job_to_be_done.task,
       processing_timestamp: new Date().toISOString(),
     },
-    extracted_sections: rankedRuns.map((run, i) => ({
+    extracted_sections: ranked.map((run, i) => ({
       document: run.fileName,
       section_title:
         run.level === "P"
           ? `Content from page ${run.page}`
-          : run.text.substring(0, 80),
+          : run.text.slice(0, 80),
       importance_rank: i + 1,
       page_number: run.page,
     })),
-    subsection_analysis: [], // This can be implemented as a next step
+    subsection_analysis: [], // placeholder for future enhancement
   };
 
-  await fs.writeJson(outputPath, outputJson, { spaces: 2 });
-  console.log(`✅ Success! Output written to ${outputPath}`);
+  // 7. Write output
+  await fs.ensureDir(OUTPUT_DIR);
+  await fs.writeJson(OUTPUT_JSON, outputJson, { spaces: 2 });
+  console.log(`✅ Success! Output written to ${OUTPUT_JSON}`);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error("Fatal error:", err);
+  process.exit(1);
+});
